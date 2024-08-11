@@ -1,5 +1,3 @@
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Jefferson Coveñas </h1>
 
 <p align="center" width="150px"> I have just started my career in Systems Engineering as a full-stack software developer. Currently, I am studying the tenth cycle and I am about to complete my studies.I have just started my career in Systems Engineering as a full-stack software developer. Currently, I am studying the tenth cycle and I am about to complete my studies.</p>
