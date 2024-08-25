@@ -1,8 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Jefferson Coveñas </h1>
-
-<p align="center" width="150px"> I have just started my career in Systems Engineering as a full-stack software developer. Currently, I am studying the tenth cycle and I am about to complete my studies.I have just started my career in Systems Engineering as a full-stack software developer. Currently, I am studying the tenth cycle and I am about to complete my studies.</p>
-### 🛠 &nbsp;Tech Stack
-
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, soy Jefferson Coveñas </h1>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
