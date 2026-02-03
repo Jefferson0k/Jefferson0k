@@ -30,6 +30,7 @@ I'm a passionate full stack developer with expertise in modern web technologies 
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=4FC08D&logo=Vue.js&logoColor=ffffff&label=" alt="Vue.js" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=61DAFB&logo=React&logoColor=000000&label=" alt="React" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=ffffff&label=" alt="Next.js" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Astro&color=FF5D01&logo=Astro&logoColor=ffffff&label=" alt="Astro" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React+Native&color=61DAFB&logo=React&logoColor=000000&label=" alt="React Native" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Quasar&color=1976D2&logo=Quasar&logoColor=ffffff&label=" alt="Quasar" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=06B6D4&logo=Tailwind+CSS&logoColor=ffffff&label=" alt="Tailwind CSS" />
@@ -63,6 +64,7 @@ I'm a passionate full stack developer with expertise in modern web technologies 
 <p>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NextUI&color=000000&logo=NextUI&logoColor=ffffff&label=" alt="NextUI" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Shadcn/UI&color=000000&logo=Shadcn/UI&logoColor=ffffff&label=" alt="Shadcn/UI" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PrimeVue&color=41B883&logo=Vue.js&logoColor=ffffff&label=" alt="PrimeVue" />
 </p>
 
 ---
@@ -82,9 +84,9 @@ I'm a passionate full stack developer with expertise in modern web technologies 
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/jeferson-grabiel-cove%C3%B1as-roman-4794b6314"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:jeffersonkk997@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/jefersoncovenas"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
