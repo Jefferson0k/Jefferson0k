@@ -1,98 +1,221 @@
-<h1 align="center">Hi 👋, I'm JEFERSON COVEÑAS</h1>
+<div align="center">
 
-<p align="center">
-  <em>Full Stack Developer | Cloud Enthusiast | Open Source Contributor</em>
-</p>
+# 🚀 JEFERSON COVEÑAS
 
-<p align="center">
-  <a href="https://github.com/jefersoncovenas"><img src="https://img.shields.io/github/followers/jefersoncovenas?label=Follow&style=social" alt="GitHub followers"></a>
-</p>
+### Full Stack Developer | Cloud Architecture | Modern Web Technologies
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-grabiel-cove%C3%B1as-roman-4794b6314)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffersonkk997@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jefersoncovenas)
 
-### 👨‍💻 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=jefersoncovenas&label=Profile%20Views&color=blueviolet&style=flat-square)
 
-I'm a passionate full stack developer with expertise in modern web technologies and cloud infrastructure. I love building scalable applications and exploring new technologies to solve complex problems.
-
-- 🔭 Currently working on innovative web and mobile applications
-- 🌱 Constantly learning and improving my skills in cloud technologies and DevOps
-- 💡 Interested in microservices architecture, containerization, and serverless computing
-- 🎯 Goal: Contributing more to open source projects and sharing knowledge with the community
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+<div align="center">
 
-#### **Frontend Development**
-<p>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=000000&label=" alt="JavaScript" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=ffffff&label=" alt="TypeScript" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=4FC08D&logo=Vue.js&logoColor=ffffff&label=" alt="Vue.js" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=61DAFB&logo=React&logoColor=000000&label=" alt="React" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=ffffff&label=" alt="Next.js" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React+Native&color=61DAFB&logo=React&logoColor=000000&label=" alt="React Native" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Quasar&color=1976D2&logo=Quasar&logoColor=ffffff&label=" alt="Quasar" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=06B6D4&logo=Tailwind+CSS&logoColor=ffffff&label=" alt="Tailwind CSS" />
-</p>
+## 💫 About Me
 
-#### **Backend Development**
-<p>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=ffffff&label=" alt="Node.js" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=ffffff&label=" alt="Express" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=ffffff&label=" alt="Laravel" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=ffffff&label=" alt="Python" />
-</p>
+</div>
 
-#### **Databases**
-<p>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=ffffff&label=" alt="MongoDB" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=ffffff&label=" alt="MySQL" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=ffffff&label=" alt="PostgreSQL" />
-</p>
-
-#### **DevOps & Cloud**
-<p>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=ffffff&label=" alt="Docker" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=AWS&color=232F3E&logo=Amazon+AWS&logoColor=ffffff&label=" alt="AWS" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=000000&label=" alt="Linux" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=ffffff&label=" alt="Git" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MinIO&color=C72E49&logo=MinIO&logoColor=ffffff&label=" alt="MinIO" />
-</p>
-
-#### **UI Frameworks & Libraries**
-<p>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NextUI&color=000000&logo=NextUI&logoColor=ffffff&label=" alt="NextUI" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Shadcn/UI&color=000000&logo=Shadcn/UI&logoColor=ffffff&label=" alt="Shadcn/UI" />
-</p>
+```typescript
+const jeferson = {
+    role: "Full Stack Developer",
+    code: ["JavaScript", "TypeScript", "Python", "PHP"],
+    technologies: {
+        frontend: {
+            frameworks: ["React", "Vue.js", "Next.js", "Astro"],
+            mobile: ["React Native"],
+            ui: ["Tailwind CSS", "Quasar", "NextUI", "Shadcn/UI", "PrimeVue"]
+        },
+        backend: {
+            node: ["Express", "Node.js"],
+            php: ["Laravel"],
+            python: ["Python"]
+        },
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        devOps: ["Docker", "AWS", "Linux", "Git", "MinIO"],
+        architecture: ["Microservices", "Serverless", "Cloud Native"]
+    },
+    currentFocus: "Building scalable cloud-native applications",
+    funFact: "I turn coffee into code ☕️"
+};
+```
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jefersoncovenas&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+## 🛠️ Tech Arsenal
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jefersoncovenas&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <br>Vue.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" />
+      <br>Astro
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
+      <br>NPM
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=yarn" width="48" height="48" alt="Yarn" />
+      <br>Yarn
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🤝 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+## 🎯 Expertise Areas
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🎨 Frontend Development</h3>
+      <p>Modern UI/UX with React, Vue, and Next.js<br>Responsive & accessible designs</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚡ Backend Development</h3>
+      <p>Scalable APIs with Node.js & Laravel<br>Database optimization & design</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>☁️ Cloud & DevOps</h3>
+      <p>AWS infrastructure & Docker containers<br>CI/CD pipelines & automation</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jefersoncovenas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<div align="center">
 
-<p align="center">
-  <em>⭐️ From <a href="https://github.com/jefersoncovenas">jefersoncovenas</a></em>
-</p>
+## 🌟 What I'm Up To
+
+🔭 Building innovative web and mobile applications  
+🌱 Exploring serverless architectures and edge computing  
+💡 Contributing to open source projects  
+🎯 Mentoring junior developers  
+🚀 Always learning and staying updated with latest tech trends
+
+</div>
+
+---
+
+<div align="center">
+
+## 📬 Let's Connect
+
+**Open for collaborations, freelance projects, and exciting opportunities!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/jeferson-grabiel-cove%C3%B1as-roman-4794b6314)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:jeffersonkk997@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-6c63ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=6c63ff)](https://github.com/jefersoncovenas)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
