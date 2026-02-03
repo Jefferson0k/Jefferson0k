@@ -1,18 +1,98 @@
-<h1 display="inline-block" align="center">Hi 👋, I'm JEFERSON COVEÑAS</h1> 
+<h1 align="center">Hi 👋, I'm JEFERSON COVEÑAS</h1>
 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p> 
-<p align='center'>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=ffffff&logo=Git&logoColor=F05032&label="  height="32 alt="Git logo" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=javascript&color=ffffff&logo=javascript&logoColor=F7DF1E&label=" height="32 alt="Javascript logo" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=typescript&color=ffffff&logo=typescript&logoColor=3178C6&label=" height="32 alt="Typescript logo" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=vue&color=ffffff&logo=vue.js&logoColor=4FC08D&label="  height="32 alt="Vue logo" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Quasar&color=ffffff&logo=Quasar&logoColor=1976D2&label="  height="32 alt="Quasar logo" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=ffffff&logo=React&logoColor=61DAFB&label="  height="32 alt="React logo" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ReactNative&color=ffffff&logo=React&logoColor=61DAFB&label="  height="32 alt="React logo" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NextUI&color=ffffff&logo=NextUI&logoColor=000000&label="  height="32 alt="React logo" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Shadcn/UI&color=ffffff&logo=ShadcnUI&logoColor=000000&label="  height="32 alt="React logo" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NextJS&color=ffffff&logo=Next.JS&logoColor=000000&label="  height="32 alt="React logo" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TailwindCss&color=ffffff&logo=TailwindCss&logoColor=06B6D4&label="  height="32 alt="React logo" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=ffffff&logo=Express&logoColor=000000&label="  height="32 alt="Node logo" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDb&color=ffffff&logo=MongoDb&logoColor=47A248&label="  height="32 alt="MongoDB logo" />
+<p align="center">
+  <em>Full Stack Developer | Cloud Enthusiast | Open Source Contributor</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jefersoncovenas"><img src="https://img.shields.io/github/followers/jefersoncovenas?label=Follow&style=social" alt="GitHub followers"></a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a passionate full stack developer with expertise in modern web technologies and cloud infrastructure. I love building scalable applications and exploring new technologies to solve complex problems.
+
+- 🔭 Currently working on innovative web and mobile applications
+- 🌱 Constantly learning and improving my skills in cloud technologies and DevOps
+- 💡 Interested in microservices architecture, containerization, and serverless computing
+- 🎯 Goal: Contributing more to open source projects and sharing knowledge with the community
+
+---
+
+### 🛠️ Tech Stack
+
+#### **Frontend Development**
+<p>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=000000&label=" alt="JavaScript" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=ffffff&label=" alt="TypeScript" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=4FC08D&logo=Vue.js&logoColor=ffffff&label=" alt="Vue.js" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=61DAFB&logo=React&logoColor=000000&label=" alt="React" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=ffffff&label=" alt="Next.js" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React+Native&color=61DAFB&logo=React&logoColor=000000&label=" alt="React Native" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Quasar&color=1976D2&logo=Quasar&logoColor=ffffff&label=" alt="Quasar" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=06B6D4&logo=Tailwind+CSS&logoColor=ffffff&label=" alt="Tailwind CSS" />
+</p>
+
+#### **Backend Development**
+<p>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=ffffff&label=" alt="Node.js" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=ffffff&label=" alt="Express" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=ffffff&label=" alt="Laravel" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=ffffff&label=" alt="Python" />
+</p>
+
+#### **Databases**
+<p>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=ffffff&label=" alt="MongoDB" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=ffffff&label=" alt="MySQL" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=ffffff&label=" alt="PostgreSQL" />
+</p>
+
+#### **DevOps & Cloud**
+<p>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=ffffff&label=" alt="Docker" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=AWS&color=232F3E&logo=Amazon+AWS&logoColor=ffffff&label=" alt="AWS" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=000000&label=" alt="Linux" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=ffffff&label=" alt="Git" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MinIO&color=C72E49&logo=MinIO&logoColor=ffffff&label=" alt="MinIO" />
+</p>
+
+#### **UI Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NextUI&color=000000&logo=NextUI&logoColor=ffffff&label=" alt="NextUI" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Shadcn/UI&color=000000&logo=Shadcn/UI&logoColor=ffffff&label=" alt="Shadcn/UI" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jefersoncovenas&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jefersoncovenas&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jefersoncovenas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <em>⭐️ From <a href="https://github.com/jefersoncovenas">jefersoncovenas</a></em>
 </p>
