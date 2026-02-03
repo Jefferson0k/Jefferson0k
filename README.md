@@ -2,7 +2,7 @@
 
 # 🚀 JEFERSON COVEÑAS
 
-### Full Stack Developer | Cloud Architecture | Modern Web Technologies
+### Full Stack Developer | AI/ML Engineer | Cloud Architecture
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-grabiel-cove%C3%B1as-roman-4794b6314)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffersonkk997@gmail.com)
@@ -22,8 +22,8 @@
 
 ```typescript
 const jeferson = {
-    role: "Full Stack Developer",
-    code: ["JavaScript", "TypeScript", "Python", "PHP"],
+    role: "Full Stack Developer & AI Engineer",
+    code: ["JavaScript", "TypeScript", "Python", "PHP", "Java"],
     technologies: {
         frontend: {
             frameworks: ["React", "Vue.js", "Next.js", "Astro"],
@@ -31,16 +31,21 @@ const jeferson = {
             ui: ["Tailwind CSS", "Quasar", "NextUI", "Shadcn/UI", "PrimeVue"]
         },
         backend: {
-            node: ["Express", "Node.js"],
-            php: ["Laravel"],
-            python: ["Python"]
+            node: ["Express", "Node.js", "FastAPI"],
+            php: ["Laravel", "CodeIgniter"],
+            python: ["Django", "FastAPI"],
+            java: ["Java"]
+        },
+        ai_ml: {
+            frameworks: ["TensorFlow", "Keras", "PyTorch"],
+            projects: ["Convolutional Neural Networks (CNN)", "Deep Learning"]
         },
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
         devOps: ["Docker", "AWS", "Linux", "Git", "MinIO"],
-        architecture: ["Microservices", "Serverless", "Cloud Native"]
+        architecture: ["Microservices", "Serverless", "Cloud Native", "RESTful APIs"]
     },
-    currentFocus: "Building scalable cloud-native applications",
-    funFact: "I turn coffee into code ☕️"
+    currentFocus: "Building scalable AI-powered applications",
+    funFact: "I turn coffee into neural networks ☕️🧠"
 };
 ```
 
@@ -63,6 +68,14 @@ const jeferson = {
       <br>TypeScript
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React
     </td>
@@ -78,6 +91,8 @@ const jeferson = {
       <img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" />
       <br>Astro
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
@@ -86,20 +101,32 @@ const jeferson = {
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
       <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+      <br>Django
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
@@ -120,8 +147,6 @@ const jeferson = {
       <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
       <br>AWS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
@@ -134,6 +159,8 @@ const jeferson = {
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       <br>VS Code
@@ -154,6 +181,18 @@ const jeferson = {
       <img src="https://skillicons.dev/icons?i=yarn" width="48" height="48" alt="Yarn" />
       <br>Yarn
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
+      <br>Scikit-learn
+    </td>
   </tr>
 </table>
 
@@ -167,15 +206,19 @@ const jeferson = {
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <h3>🎨 Frontend Development</h3>
       <p>Modern UI/UX with React, Vue, and Next.js<br>Responsive & accessible designs</p>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <h3>⚡ Backend Development</h3>
-      <p>Scalable APIs with Node.js & Laravel<br>Database optimization & design</p>
+      <p>Scalable APIs with Node.js, Django & Laravel<br>RESTful & GraphQL services</p>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
+      <h3>🧠 AI & Machine Learning</h3>
+      <p>Convolutional Neural Networks (CNN)<br>Deep Learning & Computer Vision</p>
+    </td>
+    <td align="center" width="25%">
       <h3>☁️ Cloud & DevOps</h3>
       <p>AWS infrastructure & Docker containers<br>CI/CD pipelines & automation</p>
     </td>
@@ -188,11 +231,29 @@ const jeferson = {
 
 ## 🌟 What I'm Up To
 
-🔭 Building innovative web and mobile applications  
+🔭 Building AI-powered web applications with CNN models  
+🧠 Developing neural networks for computer vision tasks  
 🌱 Exploring serverless architectures and edge computing  
-💡 Contributing to open source projects  
-🎯 Mentoring junior developers  
+💡 Contributing to open source AI/ML projects  
+🎯 Mentoring junior developers in full stack & AI  
 🚀 Always learning and staying updated with latest tech trends
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Highlighted Projects
+
+### 🧠 Convolutional Neural Network
+Built a CNN using **TensorFlow/Keras** and **Django** for image classification tasks
+
+### 🚀 Full Stack Applications
+Developed scalable web apps using **React**, **Vue.js**, **FastAPI**, and **Node.js**
+
+### ☁️ Cloud Solutions
+Deployed containerized applications on **AWS** with **Docker** and automated CI/CD
 
 </div>
 
@@ -214,7 +275,7 @@ const jeferson = {
 
 <div align="center">
 
-### 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 💻 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
