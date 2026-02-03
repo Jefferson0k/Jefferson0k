@@ -14,260 +14,101 @@
 
 ---
 
-<div align="center">
-
 ## 💫 About Me
-
-</div>
 
 ```typescript
 const jeferson = {
     role: "Full Stack Developer & AI Engineer",
     code: ["JavaScript", "TypeScript", "Python", "PHP", "Java"],
-    technologies: {
-        frontend: {
-            frameworks: ["React", "Vue.js", "Next.js", "Astro"],
-            mobile: ["React Native"],
-            ui: ["Tailwind CSS", "Quasar", "NextUI", "Shadcn/UI", "PrimeVue"]
-        },
-        backend: {
-            node: ["Express", "Node.js", "FastAPI"],
-            php: ["Laravel", "CodeIgniter"],
-            python: ["Django", "FastAPI"],
-            java: ["Java"]
-        },
-        ai_ml: {
-            frameworks: ["TensorFlow", "Keras", "PyTorch"],
-            projects: ["Convolutional Neural Networks (CNN)", "Deep Learning"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        devOps: ["Docker", "AWS", "Linux", "Git", "MinIO"],
-        architecture: ["Microservices", "Serverless", "Cloud Native", "RESTful APIs"]
-    },
-    currentFocus: "Building scalable AI-powered applications",
+    specialties: ["Web Development", "AI/ML", "Cloud Architecture", "RESTful APIs"],
+    currentFocus: "Building AI-powered applications with CNN",
     funFact: "I turn coffee into neural networks ☕️🧠"
 };
 ```
 
 ---
 
-<div align="center">
-
-## 🛠️ Tech Arsenal
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" />
-      <br>Astro
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-      <br>PyTorch
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
-      <br>NPM
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=yarn" width="48" height="48" alt="Yarn" />
-      <br>Yarn
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
-      <br>Scikit-learn
-    </td>
-  </tr>
-</table>
-
----
+## 🛠️ Tech Stack
 
 <div align="center">
 
-## 🎯 Expertise Areas
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
+![PrimeVue](https://img.shields.io/badge/PrimeVue-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
 
-</div>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter 4](https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h3>🎨 Frontend Development</h3>
-      <p>Modern UI/UX with React, Vue, and Next.js<br>Responsive & accessible designs</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>⚡ Backend Development</h3>
-      <p>Scalable APIs with Node.js, Django & Laravel<br>RESTful & GraphQL services</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>🧠 AI & Machine Learning</h3>
-      <p>Convolutional Neural Networks (CNN)<br>Deep Learning & Computer Vision</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>☁️ Cloud & DevOps</h3>
-      <p>AWS infrastructure & Docker containers<br>CI/CD pipelines & automation</p>
-    </td>
-  </tr>
-</table>
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div align="center">
-
-## 🌟 What I'm Up To
-
-🔭 Building AI-powered web applications with CNN models  
-🧠 Developing neural networks for computer vision tasks  
-🌱 Exploring serverless architectures and edge computing  
-💡 Contributing to open source AI/ML projects  
-🎯 Mentoring junior developers in full stack & AI  
-🚀 Always learning and staying updated with latest tech trends
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
 </div>
 
 ---
 
+## 🎯 Expertise
+
 <div align="center">
 
-## 🏆 Highlighted Projects
-
-### 🧠 Convolutional Neural Network
-Built a CNN using **TensorFlow/Keras** and **Django** for image classification tasks
-
-### 🚀 Full Stack Applications
-Developed scalable web apps using **React**, **Vue.js**, **FastAPI**, and **Node.js**
-
-### ☁️ Cloud Solutions
-Deployed containerized applications on **AWS** with **Docker** and automated CI/CD
+| 🎨 Frontend | ⚡ Backend | 🧠 AI/ML | ☁️ Cloud |
+|-------------|-----------|----------|----------|
+| Modern UI/UX | RESTful APIs | CNN Models | AWS Infrastructure |
+| Responsive Design | Microservices | Deep Learning | Docker Containers |
+| Mobile Apps | Database Design | Computer Vision | CI/CD Pipelines |
 
 </div>
 
 ---
 
-<div align="center">
+## 🏆 Featured Work
+
+**🧠 Convolutional Neural Network** → Built with TensorFlow/Keras + Django for image classification
+
+**🚀 Full Stack Apps** → React, Vue.js, FastAPI, Node.js
+
+**☁️ Cloud Solutions** → AWS deployment with Docker + CI/CD automation
+
+---
 
 ## 📬 Let's Connect
 
+<div align="center">
+
 **Open for collaborations, freelance projects, and exciting opportunities!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/jeferson-grabiel-cove%C3%B1as-roman-4794b6314)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:jeffersonkk997@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-6c63ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=6c63ff)](https://github.com/jefersoncovenas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-grabiel-cove%C3%B1as-roman-4794b6314)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffersonkk997@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-6c63ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/jefersoncovenas)
 
 </div>
 
@@ -275,7 +116,7 @@ Deployed containerized applications on **AWS** with **Docker** and automated CI/
 
 <div align="center">
 
-### 💻 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
